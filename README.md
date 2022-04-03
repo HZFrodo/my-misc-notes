@@ -1,1 +1,30 @@
 # my-misc-notes
+## Self-host
+### NANO Pi
+SL: 65050  
+CL: 33336
+### NIO1
+SL: 11196  
+CL: 11197
+### NIO2
+SL: 11198  
+CL: 11199
+### NIO-NOTE
+SL: 12300  
+CL: 12303
+### ZTLJ
+SL: 22336 22339  
+CL: 22337 22340
+### YYTD
+SL: 1024
+### HFS
+SL: 9009
+
+## Public
+### NANO Pi
+STX: /0073c02c-2543-4b5a-b922-349cec855299/d9127dee-6fe1-4f66-9d75-25a65ec96b3c/2d2af853-a890-4dbb-9807-3cc38b813788/tx  
+SRX: /bdec21b6-116a-4468-9240-ece593387959/af31c89b-e177-4582-9a61-3c6f6fa15819/31ab66fc-0243-4874-9d3c-333b9751e765/rx
+### NIO1
+### NIO2
+### NIO-NOTE
+### ZTLJ

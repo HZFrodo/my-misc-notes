@@ -1,4 +1,4 @@
-# my-misc-notes
+# MY MISC NOTES, JUST FOR FUN ^_^
 ## Self-host
 ### NANO Pi
 SL: 65050  

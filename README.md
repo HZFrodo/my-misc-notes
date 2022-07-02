@@ -25,6 +25,8 @@ SL: 1024
 SL: 9009
 ### ZTK2
 SL: 22556
+### PDZJROOM
+SL: 22559
 
 ## Public
 ### NANO
